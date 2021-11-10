@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip
 - 👀 I’m interested in building software and also in aircrafts too (; (but mostly building software)
-- 🌱 I’m currently learning to build android applications using Java/kotlin
+- 🌱 I’m currently building android applications using Java/kotlin
 - 💞️ I’m looking to collaborate on various challenges 
 - 📫 How to reach me- pomayuku@yahoo.com
 
